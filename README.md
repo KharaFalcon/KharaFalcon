@@ -1,4 +1,4 @@
-# Heya, I'm Khara Falcon💻
+# Hi, I'm Khara Falcon💻
 I'm **Khara Falcon** (she/her).
 I'm thrilled to introduce myself as a passionate 2nd-year computer science student with a deep love for Frontend Development. I believe in the power of user interfaces to create exceptional and accessible digital experiences that captivate and delight users.
 
