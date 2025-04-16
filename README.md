@@ -4,11 +4,11 @@ Hello World. My name is Khara Falcon
 Student | Web Developer
 -----------------------
 
-I'm Khara Falcon (she/her). I'm excited to introduce myself as a passionate industrial-year computer science student with a deep love for Frontend Development. I believe in the power of user interfaces to create exceptional and accessible digital experiences that captivate users.
+I'm Khara Falcon (she/her). I'm excited to introduce myself as a passionate final-year computer science student with a deep love for Frontend Development. I believe in the power of user interfaces to create exceptional and accessible digital experiences that captivate users.
 
 * 🌍  I'm based in UK
 * 🖥️  See my portfolio at [KharaFalconPortfolio](https://kharafalcon.github.io/darkportfolio/)
-* 🧠  I'm learning Vue.js
+* 🧠  I'm learning Swift
 
 ### Skills
 ## 🚀 Tech Stack
