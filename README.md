@@ -4,11 +4,12 @@ Hello World. My name is Khara Falcon
 Student | Web Developer
 -----------------------
 
-I'm Khara Falcon (she/her). I'm excited to introduce myself as a passionate final-year computer science student with a deep love for Frontend Development. I believe in the power of user interfaces to create exceptional and accessible digital experiences that captivate users.
+I'm Khara Falcon (she/her). A passionate graduate software engineer with a strong love for Frontend Development and crafting intuitive, accessible, and memorable digital experiences. I thrive at the intersection of creativity and technology, and I’m always exploring new ways to build interfaces that truly connect with users.
 
 * 🌍  I'm based in UK
 * 🖥️  See my portfolio at [KharaFalconPortfolio](https://kharafalcon.github.io/darkportfolio/)
-* 🧠  I'm learning Swift
+* 🧠  I'm learning TypeScript
+* ✨ Advocate for women in STEM & inclusive tech communities
 
 ### Skills
 ## 🚀 Tech Stack
@@ -19,15 +20,16 @@ I'm Khara Falcon (she/her). I'm excited to introduce myself as a passionate fina
 ![Jetpack Compose](https://img.shields.io/badge/jetpack%20compose-%2300C2A0.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white)
 
 ### Frontend Development
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/vuejs-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Less](https://img.shields.io/badge/less-%231D365D.svg?style=for-the-badge&logo=less&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Backend Development
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
@@ -47,7 +49,25 @@ I'm Khara Falcon (she/her). I'm excited to introduce myself as a passionate fina
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/KharaFalcon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/kodingwithkhara" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+
+<p align="left">
+  <a href="https://github.com/KharaFalcon" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img alt="GitHub" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </picture>
+  </a>
+
+  <a href="https://www.instagram.com/kodingwithkhara" target="_blank" rel="noreferrer">
+    <picture>
+      <!-- Instagram doesn't need a dark variant; the same icon works on both -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
+      <img alt="Instagram" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+    </picture>
+  </a>
+</p>
 
 ### Badges
 
