@@ -1,7 +1,7 @@
 Hello World. My name is Khara Falcon
 ====================================================================================================================================
 
-Student | Web Developer
+🎓 Graduate Software Engineer  |  💻 Frontend Developer  |  🌱 Lifelong Learner
 -----------------------
 
 I'm Khara Falcon (she/her). A passionate graduate software engineer with a strong love for Frontend Development and crafting intuitive, accessible, and memorable digital experiences. I thrive at the intersection of creativity and technology, and I’m always exploring new ways to build interfaces that truly connect with users.
